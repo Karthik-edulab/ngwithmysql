@@ -1,7 +1,7 @@
-// const data=[
-//     {name:"Karthik",email:"karthik@test.com"},
-//     {name:"Ritesh",email:"ritesh@test.com"},
-//     {name:"Aakash",email:"Aakash@test.com"},
-//     {name:"kalai",email:"kalai@test.com"}
-// ]
-// module.exports=data;
+const data=[
+    {name:"Karthik",password:"67478"},
+    {name:"Ritesh",password:" 27374"},
+    {name:"Aakash",password:"98547"},
+    {name:"kalai",password:"2366"}
+]
+module.exports=data;

@@ -1,0 +1,8 @@
+ 
+ <h1>{{title}}</h1>
+  
+ <form #usersForm="ngForm" (ngSubmit)="getUserFormData(usersForm.value)">
+  <input type="text" name="name" ngModel placeholder="Enter Name"><br><br>
+  <input type="password" name="password" ngModel placeholder="Enter Password"><br><br>
+  <button>submit</button>
+ </form>
